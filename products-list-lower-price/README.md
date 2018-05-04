@@ -20,24 +20,24 @@ Para executar o projeto é necessário ter instalado os seguintes pacotes:
 
 # Imports do Projeto
 
-<p align="center"><img src="https://github.com/jilcimar/web-scraping-jupyter/blob/master/images/imports.png"></p>
+<p align="center"><img src="https://github.com/jilcimar/web-scraping-jupyter/blob/master/products-list-lower-price/images/imports.png"></p>
 
 # Funções de requisições
 
 Funções para fazer o download das páginas e verificar se a URL retorna um HTML.
-<p align="center"><img src="https://github.com/jilcimar/web-scraping-jupyter/blob/master/images/functions.png"></p>
+<p align="center"><img src="https://github.com/jilcimar/web-scraping-jupyter/blob/master/products-list-lower-price/images/functions.png"></p>
 
 # Analisando os dados obtidos
 
 Fazendo o tratamento dos dados obtidos, selecionando os elementos desejados (Pegando o elemento pelo name da class)
 e ordenando os produtos por preço (do menor para o maior)
 
-<p align="center"><img src="https://github.com/jilcimar/web-scraping-jupyter/blob/master/images/treatment.png"></p>
+<p align="center"><img src="https://github.com/jilcimar/web-scraping-jupyter/blob/master/products-list-lower-price/images/treatment.png"></p>
 
 # Resultado
 
 Exibindo em um DataFrame o resultado
-<p align="center"><img src="https://github.com/jilcimar/web-scraping-jupyter/blob/master/images/result.png"></p>
+<p align="center"><img src="https://github.com/jilcimar/web-scraping-jupyter/blob/master/products-list-lower-price/images/result.png"></p>
 
 # Autor
 - Jilcimar Fernandes
