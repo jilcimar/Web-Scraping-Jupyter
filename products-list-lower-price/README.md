@@ -18,7 +18,7 @@ Para executar o projeto é necessário ter instalado os seguintes pacotes:
   jupyter notebook
 ```
 
-# Imports do Projeto
+# Imports do projeto
 
 <p align="center"><img src="https://github.com/jilcimar/web-scraping-jupyter/blob/master/products-list-lower-price/images/imports.png"></p>
 
