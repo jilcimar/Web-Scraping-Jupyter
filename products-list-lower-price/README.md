@@ -41,3 +41,5 @@ Exibindo em um DataFrame o resultado
 
 # Autor
 - Jilcimar Fernandes
+# Referências
+[1] OKEEFE, Colin. Practical Introduction to Web Scraping in Python. Disponível em: <https://realpython.com/python-web-scraping-practical-introduction/>. [Acesso em: 03 abr. 2018]
