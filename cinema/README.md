@@ -1,11 +1,11 @@
 # Cinema
 Construindo um algoritmo para verificar os filmes em cartaz (do dia) no Cinemark da cidade de Natal.
 As informações obtidas são:
- - Data de lançamento do filmes
+ - Data de lançamento do filme
  - Título do filme
  - Horário de seção disponível
  - Idioma
- - Ranking (Notas dos usuários)
+ - Ranking (Nota do usuário)
 
 Site para consulta: Adoro Cinema.
 
