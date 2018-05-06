@@ -1,5 +1,5 @@
 # Cinema
-Construindo um algoritmo para verificar os filmes em cartazes do dia no Cinemark da cidade de Natal.
+Construindo um algoritmo para verificar os filmes em cartaz (do dia) no Cinemark da cidade de Natal.
 As informações obtidas são:
  - Data de lançamento do filmes
  - Título do filme
